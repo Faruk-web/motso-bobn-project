@@ -1,0 +1,1 @@
+<a href="{{ $path }}" {!! count($attributes) ? $column->arrayToAttributes($attributes) : '' !!}>@isset($attributes['icon']) <span class="{{$attributes['icon']}}"></span> @endisset{{ $title }}</a>

@@ -1,0 +1,23 @@
+{
+    "name": "leotectapp/testing",
+    "description": "",
+    "authors": [
+        {
+            "name": "S M Rishad",
+            "email": "rishad.black@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Testing\\": ""
+        }
+    }
+}

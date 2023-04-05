@@ -1,0 +1,63 @@
+{
+    "route": [{
+        "name": "Motorized Craft",
+        "route_name": "vesselinfo.motorized_craft",
+        "permission": "motorized_craft.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Info List",
+        "route_name": "vesselinfo.vessel_info_list",
+        "permission": "vessel_info_list.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Info Approved List",
+        "route_name": "vesselinfo.vessel_info_approved_list",
+        "permission": "vessel_info_approved_list.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Info Final List",
+        "route_name": "vesselinfo.vessel_info_final_list",
+        "permission": "vessel_info_final_list.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Info Duplicacy List",
+        "route_name": "vesselinfo.vessel_info_duplicacy_list",
+        "permission": "vessel_info_duplicacy_list.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Info Draft List",
+        "route_name": "vesselinfo.vessel_info_draft_list",
+        "permission": "vessel_info_draft_list.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Fishing Area Info",
+        "route_name": "vesselinfo.setting.fishing_area_info",
+        "permission": "fishing_area_info.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Fishing Species Info",
+        "route_name": "vesselinfo.setting.fishing_species_info",
+        "permission": "fishing_species_info.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Port Info",
+        "route_name": "vesselinfo.setting.port_info",
+        "permission": "port_info.view",
+        "is_superadmin_only": false
+    },
+    {
+        "name": "Vessel Setup Info",
+        "route_name": "vesselinfo.setting.vessel_setup_info",
+        "permission": "vessel_setup_info.view",
+        "is_superadmin_only": false
+    }]
+}
+

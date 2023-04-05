@@ -1,0 +1,51 @@
+{
+    "route": [{
+        "name": "User List",
+        "route_name": "user.setting.user",
+        "permission": "user.view",
+        "is_superadmin_only": true
+    },
+    {
+        "name": "User Setting",
+        "route_name": "user.setting.user",
+        "permission": "user_setting.view",
+        "is_superadmin_only": true
+
+    },
+     {
+        "name": "Role List",
+        "route_name": "user.setting.role",
+        "permission": "user_role.view",
+        "is_superadmin_only": true
+
+    },{
+        "name": "Branch List",
+        "route_name": "user.setting.branch",
+        "permission": "user_branch.view",
+        "is_superadmin_only": true
+
+    },{
+        "name": "Software Setting List",
+        "route_name": "user.setting.softwaresetting",
+        "permission": "user_branch.view",
+        "is_superadmin_only": true
+
+    },
+    {
+        "name": "Menu List",
+        "route_name": "user.setting.menu",
+        "permission": "manage_menu.view",
+        "is_superadmin_only": true
+
+    },
+    {
+        "name": "Post List",
+        "route_name": "post.create",
+        "permission": "manage_post.view",
+        "is_superadmin_only": true
+
+    }
+ 
+]
+}
+

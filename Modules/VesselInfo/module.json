@@ -1,0 +1,11 @@
+{
+    "name": "VesselInfo",
+    "alias": "vesselinfo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\VesselInfo\\Providers\\VesselInfoServiceProvider"
+    ],
+    "files": []
+}

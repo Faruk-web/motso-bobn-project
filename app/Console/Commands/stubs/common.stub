@@ -1,0 +1,8 @@
+{
+    "route": [{
+        "title": "Menu List",
+        "route": "template.menu_list",
+        "permission": "template.menu_list",
+        "is_superadmin_only": true
+    }]
+}

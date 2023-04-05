@@ -1,0 +1,8 @@
+{
+    "Core": true,
+    "Template": true,
+    "User": true,
+    "VesselInfo": true,
+    "Testing": false,
+    "Migration": true
+}
